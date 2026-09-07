@@ -6,14 +6,6 @@ This project serves as the source code for the tutorial: **"Modern Android Netwo
 
 ---
 
-## 📸 Preview
-
-| Login Screen (POST) | User List (GET) | User Details (Dialog) |
-|:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/200x400.png?text=Login+Screen" width="200" /> | <img src="https://via.placeholder.com/200x400.png?text=User+List" width="200" /> | <img src="https://via.placeholder.com/200x400.png?text=User+Details" width="200" /> |
-
----
-
 ## ✨ Features
 
 - **Authentication (POST)**: Secure login flow using the [DummyJSON](https://dummyjson.com) API.
